@@ -1,0 +1,33 @@
+body {
+  background-color: #ffffff;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: conter;
+  justify-content: center;
+  height: 10h;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section {
+  background-color: rgb(245, 243, 243);
+  padding: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-right: 180px;
+  gap: 3px;
+}
+
+
+memeTemplaten{
+      borde-radius: 50%;
+      width: 12;
+}
+
+
+name {
+   font-weight: bold;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
